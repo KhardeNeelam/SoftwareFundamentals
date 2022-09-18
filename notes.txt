@@ -1,0 +1,11 @@
+Software fundamentals -- TestCases
+https://github.com/KartikEdureka/SoftwareTestingFundamental_Sept2022
+install in windows
+https://git-scm.com/download/win
+
+https://github.com/
+install in mac
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+jenkins
+https://github.com/KartikEdureka/SoftwareTestingFundamental_BatchJune2022.git
